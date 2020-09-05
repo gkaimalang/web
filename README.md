@@ -4,4 +4,4 @@ publish branch dibuat untuk file" yang sudah fix, dan memang siap dipublish ke w
 Alamat web (halaman utama): https://gkaimalang.github.io/main
 
 Coba cari solusi-solusi nilai y (y = f(x)) dari persamaan ini hehehe <br>
-<img src="https://render.githubusercontent.com/render/math?math=10\frac{d^2y}{dx^2}-6\frac{dy}{dx} \p 8y=15">
+<img src="https://render.githubusercontent.com/render/math?math=10\frac{d^2y}{dx^2}-6\frac{dy}{dx} \+ 8y=15">
