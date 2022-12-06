@@ -2,7 +2,7 @@
 
 
 ## Tasks:
-- [ ] Integrate django with MySQL
+- [x] Integrate django with MySQL
 - [ ] Get posts
 - [ ] Create posts
 - [ ] Update posts
