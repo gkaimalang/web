@@ -5,5 +5,5 @@ dependencies:
   - python=3.10.*
   - pip=22.*
   - pip:
-      - django==4.1
-      - mysql-connector-python
+      - django
+      - mysqlclient
