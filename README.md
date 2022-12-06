@@ -1,6 +1,9 @@
-pip list in windows
+# README
 
-![pip list in windows](image.png)
 
-thoughts:
-- do I need to upgrade the pip?
+## Tasks:
+- [ ] Integrate django with MySQL
+- [ ] Get posts
+- [ ] Create posts
+- [ ] Update posts
+- [ ] Delete posts
