@@ -1,0 +1,17 @@
+version: '3'
+services:
+  db:
+    image: mysql:latest
+    environment:
+      - MYSQL_DATABASE=web
+      - MYSQL_USER=gkai.admin
+      - MYSQL_PASSWORD=OraEtLabora12091982
+      - MYSQL_ROOT_PASSWORD=password
+    restart: unless-stopped
+    volumes:
+      - db-gkai:/var/lib/mysql
+    ports:
+      - 3310:3306
+
+volumes:
+  db-gkai:
