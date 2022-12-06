@@ -3,5 +3,6 @@ channels:
   - defaults
 dependencies:
   - python=3.10.4
+  - pip
   - pip:
       - django==4.1
