@@ -1,0 +1,11 @@
+name: gkaimenv
+channels:
+  - defaults
+dependencies:
+  - python=3.10.4
+  - setuptools=61.2.0
+  - pip:
+      - asgiref==3.5.2
+      - django==4.1
+      - sqlparse==0.4.2
+      - tzdata==2022.2
