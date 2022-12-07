@@ -8,3 +8,7 @@
 - [ ] Create posts
 - [ ] Update posts
 - [ ] Delete posts
+
+## Tools
+
+- [Linting](https://dkolodzey.medium.com/pylint-for-django-in-vscode-f3fadb8462d)
