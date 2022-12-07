@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'web', 
         'USER':'root', 
         'PASSWORD':'password',  
-        'HOST':'localhost', 
+        'HOST':'127.0.0.1', 
         'PORT':'3310',
         'OPTIONS': {
             'read_default_file': f'{BASE_DIR}/my.cnf',
