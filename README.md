@@ -1,7 +1,7 @@
 # README
 
+## Tasks
 
-## Tasks:
 - [x] Integrate django with MySQL
 - [ ] Get posts
 - [ ] Create posts
