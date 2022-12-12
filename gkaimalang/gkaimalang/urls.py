@@ -23,5 +23,5 @@ def defaultPage(request):
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', defaultPage, name= 'defaultPage'),
-    path('posts/', include('posts.urls'))
+    path('posts/', include('posts.urls')),
 ]
