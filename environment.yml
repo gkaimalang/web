@@ -2,8 +2,8 @@ name: gkaimenv
 channels:
   - defaults
 dependencies:
-  - python=3.10.*
-  - pip=22.*
+  - python=3.10
+  - pip
   - pip:
       - django
       - mysqlclient

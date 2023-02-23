@@ -18,10 +18,11 @@ from django.shortcuts import redirect
 from django.urls import include, path
 
 def defaultPage(request):
-    return redirect('posts')
+    return redirect('home')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', defaultPage, name= 'defaultPage'),
     path('posts/', include('posts.urls')),
+    path('home/', include('home.urls')),
+    path('', defaultPage, name= 'defaultPage'),
 ]
