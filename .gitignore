@@ -1,3 +1,3 @@
 .vscode/settings.json
 gkaimalang/.vscode/settings.json
-gkaimalang/*/__pycache__
+gkaimalang/**/__pycache__
