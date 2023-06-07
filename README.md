@@ -5,3 +5,6 @@ Alamat web (halaman utama): https://gkaimalang.github.io/main
 
 Branch ini untuk exploration dengan wordpress
 
+Steps to do:
+1. npm install -g ghost@latest # use nodejs LTS version (16.x or 18.x)
+2. ghost install local

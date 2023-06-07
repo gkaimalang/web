@@ -1,0 +1,96 @@
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Ghost is running in development...","time":"2023-06-07T08:56:46.144Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Listening on: 127.0.0.1:2368","time":"2023-06-07T08:56:46.145Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Url configured as: http://localhost:2368/","time":"2023-06-07T08:56:46.145Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Ctrl+C to shut down","time":"2023-06-07T08:56:46.146Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Ghost server started in 1.115s","time":"2023-06-07T08:56:46.147Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":40,"version":"5.50.2","msg":"Database state requires initialisation.","time":"2023-06-07T08:56:46.337Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: newsletters","time":"2023-06-07T08:56:46.656Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: posts","time":"2023-06-07T08:56:46.667Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: posts_meta","time":"2023-06-07T08:56:46.673Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: users","time":"2023-06-07T08:56:46.678Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: posts_authors","time":"2023-06-07T08:56:46.685Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: roles","time":"2023-06-07T08:56:46.688Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: roles_users","time":"2023-06-07T08:56:46.693Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: permissions","time":"2023-06-07T08:56:46.695Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: permissions_users","time":"2023-06-07T08:56:46.700Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: permissions_roles","time":"2023-06-07T08:56:46.703Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: settings","time":"2023-06-07T08:56:46.706Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: tags","time":"2023-06-07T08:56:46.712Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: posts_tags","time":"2023-06-07T08:56:46.718Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: invites","time":"2023-06-07T08:56:46.721Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: brute","time":"2023-06-07T08:56:46.728Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: sessions","time":"2023-06-07T08:56:46.730Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: integrations","time":"2023-06-07T08:56:46.735Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: webhooks","time":"2023-06-07T08:56:46.740Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: api_keys","time":"2023-06-07T08:56:46.742Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: mobiledoc_revisions","time":"2023-06-07T08:56:46.747Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: post_revisions","time":"2023-06-07T08:56:46.751Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members","time":"2023-06-07T08:56:46.756Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: products","time":"2023-06-07T08:56:46.765Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: offers","time":"2023-06-07T08:56:46.769Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: benefits","time":"2023-06-07T08:56:46.778Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: products_benefits","time":"2023-06-07T08:56:46.782Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_products","time":"2023-06-07T08:56:46.785Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: posts_products","time":"2023-06-07T08:56:46.787Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_created_events","time":"2023-06-07T08:56:46.790Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_cancel_events","time":"2023-06-07T08:56:46.792Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_payment_events","time":"2023-06-07T08:56:46.795Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_login_events","time":"2023-06-07T08:56:46.797Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_email_change_events","time":"2023-06-07T08:56:46.800Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_status_events","time":"2023-06-07T08:56:46.802Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_product_events","time":"2023-06-07T08:56:46.805Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_paid_subscription_events","time":"2023-06-07T08:56:46.807Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: labels","time":"2023-06-07T08:56:46.810Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_labels","time":"2023-06-07T08:56:46.817Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_stripe_customers","time":"2023-06-07T08:56:46.820Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: subscriptions","time":"2023-06-07T08:56:46.825Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_stripe_customers_subscriptions","time":"2023-06-07T08:56:46.828Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_subscription_created_events","time":"2023-06-07T08:56:46.837Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: offer_redemptions","time":"2023-06-07T08:56:46.840Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_subscribe_events","time":"2023-06-07T08:56:46.842Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: stripe_products","time":"2023-06-07T08:56:46.845Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: stripe_prices","time":"2023-06-07T08:56:46.849Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: actions","time":"2023-06-07T08:56:46.854Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: emails","time":"2023-06-07T08:56:46.856Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: email_batches","time":"2023-06-07T08:56:46.863Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: email_recipients","time":"2023-06-07T08:56:46.865Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: email_recipient_failures","time":"2023-06-07T08:56:46.878Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: tokens","time":"2023-06-07T08:56:46.880Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: snippets","time":"2023-06-07T08:56:46.885Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: custom_theme_settings","time":"2023-06-07T08:56:46.889Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_newsletters","time":"2023-06-07T08:56:46.892Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: comments","time":"2023-06-07T08:56:46.895Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: comment_likes","time":"2023-06-07T08:56:46.897Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: comment_reports","time":"2023-06-07T08:56:46.899Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: jobs","time":"2023-06-07T08:56:46.902Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: redirects","time":"2023-06-07T08:56:46.906Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_click_events","time":"2023-06-07T08:56:46.909Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: members_feedback","time":"2023-06-07T08:56:46.911Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: suppressions","time":"2023-06-07T08:56:46.914Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: email_spam_complaint_events","time":"2023-06-07T08:56:46.918Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: mentions","time":"2023-06-07T08:56:46.922Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Creating table: milestones","time":"2023-06-07T08:56:46.925Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Model: Product","time":"2023-06-07T08:56:47.190Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Model: Newsletter","time":"2023-06-07T08:56:47.197Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Model: Tag","time":"2023-06-07T08:56:47.201Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Model: Permission","time":"2023-06-07T08:56:47.204Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Model: Post","time":"2023-06-07T08:56:47.357Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Model: Integration","time":"2023-06-07T08:56:47.795Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Relation: Role to Permission","time":"2023-06-07T08:56:47.826Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Relation: Post to Tag","time":"2023-06-07T08:56:47.941Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Database is in a ready state.","time":"2023-06-07T08:56:48.001Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Ghost database ready in 2.971s","time":"2023-06-07T08:56:48.002Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":50,"version":"5.50.2","err":{"id":"3cf339e0-0511-11ee-b417-efda62a11c6e","domain":"http://localhost:2368/","code":"ENOENT","name":"InternalServerError","statusCode":500,"level":"critical","message":"Unable to activate the theme \"casper\".","stack":"Error: ENOENT: no such file or directory, copyfile 'C:\\Users\\ASUS\\Documents\\MyData\\MyProjects\\gkaimalang-web\\ghost\\versions\\5.50.2\\core\\frontend\\src\\admin-auth\\index.html' -> 'C:\\Users\\ASUS\\Documents\\MyData\\MyProjects\\gkaimalang-web\\ghost\\content\\public\\admin-auth\\index.html'\n    at Bridge.activateTheme (C:\\Users\\ASUS\\Documents\\MyData\\MyProjects\\gkaimalang-web\\ghost\\versions\\5.50.2\\core\\bridge.js:76:27)","hideStack":false},"msg":"Unable to activate the theme \"casper\".","time":"2023-06-07T08:56:49.023Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Adding offloaded job to the queue","time":"2023-06-07T08:56:49.631Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Scheduling job mentions-email-report at 56 25 * * * *. Next run on: Wed Jun 07 2023 16:25:56 GMT+0700 (Indochina Time)","time":"2023-06-07T08:56:49.639Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Adding one-off job to queue with current length = 0 called 'members-migrations'","time":"2023-06-07T08:56:49.921Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Stripe not configured - skipping migrations","time":"2023-06-07T08:56:49.927Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Ghost URL Service Ready in 5.17s","time":"2023-06-07T08:56:50.201Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Adding offloaded job to the queue","time":"2023-06-07T08:56:50.406Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Scheduling job clean-expired-comped at 8 35 2 * * *. Next run on: Thu Jun 08 2023 02:35:08 GMT+0700 (Indochina Time)","time":"2023-06-07T08:56:50.408Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Adding offloaded job to the queue","time":"2023-06-07T08:56:50.412Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Scheduling job clean-tokens at 47 26 17 * * *. Next run on: Wed Jun 07 2023 17:26:47 GMT+0700 (Indochina Time)","time":"2023-06-07T08:56:50.414Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Ghost booted in 5.388s","time":"2023-06-07T08:56:50.420Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Adding offloaded job to the queue","time":"2023-06-07T08:56:50.423Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Scheduling job update-check at 39 29 15 * * *. Next run on: Thu Jun 08 2023 15:29:39 GMT+0700 (Indochina Time)","time":"2023-06-07T08:56:50.426Z","v":0}
+{"name":"Log","hostname":"nuhardjowono","pid":23236,"level":30,"version":"5.50.2","msg":"Running milestone emails job on Wed Jun 07 2023 15:56:55 GMT+0700 (Indochina Time)","time":"2023-06-07T08:56:50.436Z","v":0}
